@@ -16,5 +16,5 @@ $ direnv allow
 ### 🚀 Run Application
 ```bash
 $ docker-compose up -d
-$ go build && go run main.app
+$ go build && go run main.go
 ```
